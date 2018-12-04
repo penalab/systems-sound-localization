@@ -1,8 +1,8 @@
 
-# Systems Neuroscience - Auditory System II: Sound Localization
+# Auditory System II: Sound Localization
 
-Part of the Neuroscience [Graduate Program][gradpro] at the
-[Albert Einstein College of Medicine][aecom], Bronx, NY.
+Part of the "Systems Neuroscience" course in the Neuroscience
+[Graduate Program][gradpro] at the [Albert Einstein College of Medicine][aecom].
 
 [gradpro]: https://www.einstein.yu.edu/departments/neuroscience/graduate-program/
 [aecom]: https://www.einstein.yu.edu/
