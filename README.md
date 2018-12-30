@@ -18,3 +18,6 @@ plattform.
 
 [Colaboratory]: https://colab.research.google.com/
 
+## Direct link to notebook:
+
+https://colab.research.google.com/github/penalab/systems-sound-localization/blob/master/Sys_Audio_Class.ipynb
