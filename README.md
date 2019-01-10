@@ -21,3 +21,9 @@ plattform.
 ## Direct link to notebook:
 
 https://colab.research.google.com/github/penalab/systems-sound-localization/blob/master/Sys_Audio_Class.ipynb
+
+## Static version:
+
+For the time being, the export of the Notebook is also accessible as static page:
+
+https://elpy.de/class/Sys_Audio_Class.html
